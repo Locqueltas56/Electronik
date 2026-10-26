@@ -1,0 +1,18 @@
+# STM32CubeIDE : fichiers generes a la compilation
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.su
+*.cyclo
+*.list
+.metadata/
+
+# Python
+__pycache__/
+*.pyc
+
+# PV de test generes par le script
+PV_*.txt
